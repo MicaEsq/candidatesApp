@@ -1,5 +1,6 @@
 ## Candidates website
 
+This website shows different candidates that applied to a job in "our" website. According to some conditions the candidate is automatically rejected or accepted.
 
 ## Comments regarding the code:
 
